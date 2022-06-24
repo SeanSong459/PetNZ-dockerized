@@ -2,7 +2,7 @@
 
 This project is part of Mission 6 in Mission Ready's Advanced Software Development course. 
 
-The aim for the project was to enhance the user experience on the PetNZ website (https://www.pet.co.nz/). Collaborated with two UX designers, we applied agile methodology with daily standup meetings. Base on the Figma prototype redesigned by my designer partners, I completed the coding challenge in a week.
+The aim for the project was to enhance the user experience on PetNZ website (https://www.pet.co.nz/). Collaborated with two UX designers, we applied agile methodology with daily standup meetings. Base on the Figma prototype redesigned by my designer partners, I completed the coding challenge in a week.
 
 __Highlight__
 - React frontend
